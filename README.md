@@ -77,7 +77,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 ---
 
 ### Hobby
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/txhl2aw0du71nd8c8zl41ndzt?si=4491f067f4874809)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
 [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)
 
