@@ -62,7 +62,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadityaKama&layout=compact&theme=transparent&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RadityaKama&theme=transparent&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RadityaKama&theme=transparent&hide_border=true)
 
 ---
 
