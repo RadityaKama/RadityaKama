@@ -72,7 +72,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 [![IMDb](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://www.imdb.com/user/ur160538499/?ref_=ext_shr_lnk)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RadityaKama)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/radityakamaa?igsh=MXJxOGp3YmR5cnE4)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/radityakama)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/raditya-kama-255718287/)
 
 ---
 
