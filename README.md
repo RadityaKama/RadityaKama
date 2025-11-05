@@ -24,7 +24,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 
 ---
 
-### AI Tools I Use
+### AI Tools 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
@@ -69,7 +69,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 ---
 
 ### Follow Me
-[![IMDb](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000)](#)
+[![IMDb](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://www.imdb.com/user/ur160538499/?ref_=ext_shr_lnk)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
