@@ -56,15 +56,14 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 
 ---
 
-### GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RadityaKamaCahyadewa&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RadityaKamaCahyadewa&layout=compact&theme=transparent" height="165" />
-</p>
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadityaKamaCahyadewa&theme=transparent" height="165" />
-</p>
+![Raditya Kama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadityaKama&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadityaKama&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RadityaKama&theme=transparent&hide_border=true)
+
 
 ---
 
