@@ -3,11 +3,11 @@
 ---
 
 ### About Me
-I am an Informatics student at Universitas Teknologi Yogyakarta who is passionate about software development, data processing, and web technology. I enjoy exploring different programming languages, frameworks, and data tools to create efficient, logical, and impactful solutions. My learning approach focuses on experimentation, hands-on projects, and continuous improvement through trusted resources such as GeeksforGeeks, Kaggle, and W3Schools. I believe that clarity in logic and structure in code are essential foundations for every great developer.
+I am an Informatics student at Universitas Teknologi Yogyakarta who is passionate about software development and data processing. I enjoy exploring different programming languages, frameworks, and data tools to create efficient, logical, and impactful solutions. My learning approach focuses on experimentation, hands-on projects, and continuous improvement through trusted resources such as GeeksforGeeks, Kaggle, and W3Schools. I believe that clarity in logic and structure in code are essential foundations for every great developer.
 
 ---
 
-### Programming Languages
+### Programming Languages I’ve Learned So Far
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -38,7 +38,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 
 ---
 
-### Database
+### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
@@ -77,7 +77,7 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 
 ---
 
-### Hobby
+### Hobbies
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/txhl2aw0du71nd8c8zl41ndzt?si=4491f067f4874809)
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)
 [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)
