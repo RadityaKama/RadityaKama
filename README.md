@@ -60,11 +60,6 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 ---
 
 ### GitHub Stats
-
-![Raditya Kama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadityaKama&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadityaKama&layout=compact&theme=transparent&hide_border=true)
-
 ![Statistik Streak GitHub RadityaKama](https://git-hub-streak-stats.vercel.app/?user=RadityaKama&theme=transparent&hide_border=true)
 
 ---
