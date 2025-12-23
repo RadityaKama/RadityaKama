@@ -59,11 +59,6 @@ I am an Informatics student at Universitas Teknologi Yogyakarta who is passionat
 
 ---
 
-### GitHub Stats
-![Statistik Streak GitHub RadityaKama](https://git-hub-streak-stats.vercel.app/?user=RadityaKama&theme=transparent&hide_border=true)
-
----
-
 ### Follow Me
 [![IMDb](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=000)](https://www.imdb.com/user/ur160538499/?ref_=ext_shr_lnk)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RadityaKama)
